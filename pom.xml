@@ -7,6 +7,8 @@
     <groupId>org.wecan</groupId>
     <artifactId>liubackframe</artifactId>
     <version>1.0-SNAPSHOT</version>
-
-
+    <packaging>pom</packaging>
+    <modules>
+        <module>gateway</module>
+    </modules>
 </project>
